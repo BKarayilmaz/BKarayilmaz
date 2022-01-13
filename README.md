@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Berkan</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
